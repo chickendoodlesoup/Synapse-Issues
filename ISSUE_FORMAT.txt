@@ -1,0 +1,11 @@
+***Synapse Issue Format***
+
+**Issue Name**:
+
+**Issue Description**:
+
+**Describe how to fully reproduce the issue**:
+
+**Link to game (for anti-exploit detections)**:
+
+**Other Details**:
