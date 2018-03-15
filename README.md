@@ -1,2 +1,2 @@
 # Synapse-Issues
-Synapse Issues Page - Report Issues Here
+Synapse Issues Page - Report them here!
