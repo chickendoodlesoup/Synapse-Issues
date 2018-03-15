@@ -1,6 +1,0 @@
-Synapse Issue Format
-
-Discord Id (ex: 3dsboy08#8037):
-Report Type (script issue/etc):
-Report Content:
-Images/other details:
